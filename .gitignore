@@ -1,0 +1,6 @@
+data/raw/
+data/processed/
+models/*.joblib
+.ipynb_checkpoints/
+__pycache__/
+docs/145 Prod-1.pdf
